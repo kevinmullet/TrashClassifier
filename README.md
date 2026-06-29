@@ -17,12 +17,12 @@ A small computer-vision web app that classifies waste photos into three
 recyclable categories using a Support Vector Machine on hand-crafted image
 features (no deep learning, no GPU required).
 
-Made by Group 10:\n
-2802476424 - Vincensius Kevin Mulyono\n
-2802536083 - Bintang Nur Fadhlillah\n
-2802520860 - Clark Christopher Sompie\n
-2802489206 - Malvin Raditya Nugraha\n
-2802523515 - Muhammad Revi Alfarisi
+Made by Group 10:
+- 2802476424 - Vincensius Kevin Mulyono
+- 2802536083 - Bintang Nur Fadhlillah
+- 2802520860 - Clark Christopher Sompie
+- 2802489206 - Malvin Raditya Nugraha
+- 2802523515 - Muhammad Revi Alfarisi
 
 **👉 Try it live:** https://huggingface.co/spaces/Gutstavo/TrashClassifier
 
