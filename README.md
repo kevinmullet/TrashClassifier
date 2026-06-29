@@ -25,6 +25,7 @@ Made by Group 10:
 - 2802523515 - Muhammad Revi Alfarisi
 
 **👉 Try it live:** https://huggingface.co/spaces/Gutstavo/TrashClassifier
+** Watch it:** https://youtu.be/u_z5oxWu6WQ
 
 ## Results
 
