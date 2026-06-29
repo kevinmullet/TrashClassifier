@@ -26,7 +26,7 @@ Made by Group 10:
 
 **👉 Try it live:** https://huggingface.co/spaces/Gutstavo/TrashClassifier
 
-# Youtube: https://youtu.be/u_z5oxWu6WQ
+### Youtube: https://youtu.be/u_z5oxWu6WQ
 
 ## Results
 
